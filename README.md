@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭After I graduated from the Industrial Engineering department, I had an opportunity to experience every aspect of the software development process in Wissen Akademie by working on projects.<br><br>🌱My technical skills include technologies such as C#, ASP.NET MVC, SQL Server, HTML, CSS and JavaScrpt.<br><br>💬 Send me an <a href="mailto:cankusseyma@gmail.com">Email</a> or add me on LinkedIn :)<br><br>
+🔭After I graduated from the Industrial Engineering department, I had an opportunity to experience every aspect of the software development process in Wissen Akademie by working on projects.<br><br>🌱My technical skills include technologies such as C#, ASP.NET MVC, SQL Server, HTML, CSS and JavaScript.<br><br>💬 Send me an <a href="mailto:cankusseyma@gmail.com">Email</a> or add me on LinkedIn :)<br><br>
 
 
 ## 🌐 Socials:
